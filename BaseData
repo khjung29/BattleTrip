@@ -1,0 +1,24 @@
+{ 
+  "channels" : [
+    {
+      "title" : "배틀트립",
+      "fbNativeInterval" : "3",
+      "notiOn" : "false",
+      "notiTitle" : "공지",
+      "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
+      "type" : "0",
+      "typecnt" : "0",
+      "typenames" : [""],
+      "url" : "http://m.post.naver.com/my/series/detail/",
+      "searchUrl" : "http://m.post.naver.com/search/authorPost/",
+      "postId" : "33633832",
+      "memberNo" : "33633832",
+      "seriesNo" : "223680",
+      "item" : [
+          { "title" : "", "id" : "", "img" : "", "sort" : "1"}
+      ]
+    }    
+  ]
+}
